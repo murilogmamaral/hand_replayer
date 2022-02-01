@@ -8,3 +8,5 @@ Desenvolvi este ShinyApp em 2020 para revisar meus jogos de poker online. Você 
 
 * https://github.com/murilogmamaral/odds (probabilidades de vencer)
 * https://github.com/murilogmamaral/analysis (balanço de ganhos e perdas)
+* https://github.com/murilogmamaral/datasetbuilding (estruturação de dados dos torneios)
+* https://github.com/murilogmamaral/exploratory_data_analysis/tree/main/poker (análise de dados dos torneios)
