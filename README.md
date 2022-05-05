@@ -1,12 +1,13 @@
-# HAND REPLAYER
+## Hand Replayer
 
-Link: https://mypokerstudies.shinyapps.io/replayer/
-
+### Description
+I developed this ShinyApp in 2020 to review my online poker hands.  
+<br>  
+### Usage
+First, download this [hand history](https://raw.githubusercontent.com/murilogmamaral/hand_replayer/main/HH20200724%20T2967580470%20No%20Limit%20Hold'em%20US%24%200%2C23%20%2B%20US%24%200%2C02.txt). It's a _.txt_ file. Then, go to [https://mypokerstudies.shinyapps.io/replayer/](https://mypokerstudies.shinyapps.io/replayer/) to see the deployed app and upload the hand history. You can navigate through the different moments of the tournament and see how I played each hand. Or you can upload your own hand history.  
+<br>  
+### Details  
+For now, this is not an open source app, but we can discuss part of the code! Just send me a message.  
+<br>
+### Preview  
 ![](hand_example.gif)
-
-Desenvolvi este ShinyApp em 2020 para revisar meus jogos de poker online. Você pode testá-lo entrando no link e fazendo o upload do arquivo de texto disponível no repositório. Por ora, o código não está público, mas podemos conversar sobre ele! Enquanto isso, deixo disponível outros códigos abertos de meus projetos relacionados a poker:
-
-* https://github.com/murilogmamaral/odds (probabilidades de vencer)
-* https://github.com/murilogmamaral/analysis (balanço de ganhos e perdas)
-* https://github.com/murilogmamaral/datasetbuilding (estruturação de dados dos torneios)
-* https://github.com/murilogmamaral/exploratory_data_analysis/tree/main/poker (análise de dados dos torneios)
